@@ -37,4 +37,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Link to the deplolyed web page
 https://mavsic.github.io/My_Portfolio/
 
+![ScreenshotWeb](https://user-images.githubusercontent.com/106194588/173721890-274dee4a-ada1-4f06-bf6d-a1f223e91f7f.png)
 
